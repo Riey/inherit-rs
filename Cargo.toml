@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "inherit",
+    "inherit-derive",
+    "examples/simple",
+]
